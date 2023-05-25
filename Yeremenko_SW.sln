@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yeremenko_SW", "Yeremenko_SW\Yeremenko_SW.csproj", "{DC039C3E-687B-43C4-AE15-464470240A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreFramework", "CoreFramework\CoreFramework.csproj", "{DA5221E0-4366-4A1F-AF0F-57023BD638BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC039C3E-687B-43C4-AE15-464470240A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC039C3E-687B-43C4-AE15-464470240A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC039C3E-687B-43C4-AE15-464470240A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC039C3E-687B-43C4-AE15-464470240A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5221E0-4366-4A1F-AF0F-57023BD638BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5221E0-4366-4A1F-AF0F-57023BD638BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5221E0-4366-4A1F-AF0F-57023BD638BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5221E0-4366-4A1F-AF0F-57023BD638BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3990513-5005-4E99-B1EC-58E4C66381FB}
+	EndGlobalSection
+EndGlobal
